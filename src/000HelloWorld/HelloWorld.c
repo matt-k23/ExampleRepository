@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, World! \n");
+	printf("Hello, World! \n"); //주석 추가
 	return 0;
 }
