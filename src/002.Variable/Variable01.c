@@ -2,8 +2,9 @@
 
 int main()
 {
-	int a = 10;
-	printf("a의 값은 : %d \n", a);
-	
-	return 0;
+    int a;
+    a = 10;
+    printf("a 의 값은 : %d \n", a);
+    
+    return 0;
 }
