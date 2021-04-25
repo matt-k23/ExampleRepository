@@ -8,7 +8,7 @@ int main()
 	printf("섭씨 온도를 입력해주세요 : ");
 	scanf("%lf", &celsius);
 	
-	printf("섭씨 %f 도는 화씨로 %f 도 입니다. \n", celsius, 9 * celsius / 5.0 + 32);
+	printf("섭씨 %f 도는 화씨로 %f 도 입니다. \n", celsius, 9 * celsius / 5 + 32);
 	
 	return 0;
 }
