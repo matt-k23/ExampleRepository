@@ -17,7 +17,7 @@ int main()
 	}
 	else
 	{
-		printf("그냥 평범한 숫자 %c \n", num);
+		printf("그냥 평범한 숫자 %d \n", num);
 	}
 	
 	return 0;
