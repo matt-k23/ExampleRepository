@@ -1,6 +1,6 @@
 #include <stdio.h>
 //사용자에게 입력받은 정수를 2배로 증가
-void change_double(int *p) {
+void changeDouble(int *p) {
 	*p = *p * 2;
 }
 
